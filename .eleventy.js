@@ -184,7 +184,8 @@ module.exports = function(config) {
         passthroughFileCopy: true,
         templateFormats: [
             'md', 'html', 'njk',
-            'jpg', 'png', 'svg',
+            'gif', 'jpg', 'png', 'svg',
+            'zip'
         ],
     };
 };
